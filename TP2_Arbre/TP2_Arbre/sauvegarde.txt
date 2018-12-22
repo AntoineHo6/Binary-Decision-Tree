@@ -1,0 +1,2 @@
+0	R	il vole
+1	G	canard
