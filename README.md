@@ -5,4 +5,11 @@ Asks questions until it comes up with an answers. If it's wrong, it will ask the
 
 ![alt text](https://github.com/InsaneBepis/Binary-Decision-Tree/blob/master/binary%20tree%20save.PNG)
 
+
+
+
+
+
+
+
 <level of node> <direction of node> <node element>
